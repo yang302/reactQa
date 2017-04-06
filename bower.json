@@ -1,0 +1,20 @@
+{
+  "name": "react-qa",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yangqingfeng <724370019@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
